@@ -1,6 +1,3 @@
-*Neuror*
-Use the latest branches
-
 Neuror is an app which provides autistic individuals an opportunity to find jobs that match their specific needs.
 
 From our research and discussions we found that one of the most difficult thing for autistic people, when it comes to requirements, is whether the job matches them.
