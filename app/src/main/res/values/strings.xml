@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">neuroapp</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string-array name="array_technology">
+        <item>Job title 1</item>
+        <item>Job title 2</item>
+        <item>Job title 3</item>
+        <item>Job title 4</item>
+        <item>Job title 5</item>
+        <item>Job title 6</item>
+        <item>Job title 7</item>
+        <item>Job title 8</item>
+        <item>Job title 9</item>
+        <item>Job title 10</item>
+        <item>Job title 11</item>
+        <item>Job title 12</item>
+        <item>Job title 13</item>
+        <item>Job title 14</item>
+        <item>Job title 15</item>
+        <item>Job title 16</item>
+        <item>Job title 17</item>
+    </string-array>
+    <string name="job_title">TITLE</string>
+</resources>
